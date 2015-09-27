@@ -1,0 +1,11 @@
+Top 10 genres:
+Drama
+Thriller
+Crime
+Adventure
+Mystery
+Comedy
+Action
+Romance
+Fantasy
+War

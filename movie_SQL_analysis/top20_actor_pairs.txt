@@ -1,0 +1,23 @@
+Top 20 most frequent pairs of actors who co-starred in
+                the same movie:
+Actor A, Actor B, Co-starred Movies
+Christian Bale, Michael Caine, 4
+Joe Pesci, Robert De Niro, 4
+Al Pacino, John Cazale, 3
+Alec Guinness, Anthony Daniels, 3
+Alec Guinness, Carrie Fisher, 3
+Alec Guinness, David Prowse, 3
+Alec Guinness, Harrison Ford, 3
+Alec Guinness, Kenny Baker, 3
+Alec Guinness, Mark Hamill, 3
+Alec Guinness, Peter Mayhew, 3
+Anthony Daniels, Carrie Fisher, 3
+Anthony Daniels, David Prowse, 3
+Anthony Daniels, Harrison Ford, 3
+Anthony Daniels, Kenny Baker, 3
+Anthony Daniels, Mark Hamill, 3
+Anthony Daniels, Peter Mayhew, 3
+Benito Stefanelli, Clint Eastwood, 3
+Bibi Andersson, Gunnar Björnstrand, 3
+Billy Boyd, Cate Blanchett, 3
+Billy Boyd, Orlando Bloom, 3
